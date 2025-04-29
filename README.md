@@ -117,6 +117,10 @@ GET /fibonacci?n=<number>
   "error": "Error details"
 }
 
+**Continuous Integration/Continuous Deployment (CI/CD):**
+We use GitHub Actions to automate the process of building the Docker image, pushing it to Azure Container Registry, and deploying it to Azure App Service.
+See .github/workflows/deploy.yml for details.
+
 
 ## **Error Handling**
 - **Invalid or Missing Query Parameter**: Returns 400 with a descriptive message.
