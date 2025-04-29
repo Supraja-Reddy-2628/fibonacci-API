@@ -28,8 +28,8 @@ Ensure the following tools are installed:
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/Supraja-Reddy-2627/fibonacci-api-service.git
-cd fibonacci-api-service
+git clone [https://github.com/Supraja-Reddy-2627/fibonacci-api-service.git](https://github.com/Supraja-Reddy-2628/fibonacci-API.git)
+cd fibonacci-API
 ```
 
 **Step 2: Set up a Virtual Environment**
